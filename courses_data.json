@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Complete Android Development",
+    "description": "Learn Android development from scratch with Kotlin and modern tools. Build real-world applications and master the Android ecosystem.",
+    "price": 99.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
+    "instructor": "John Smith",
+    "duration": "12 weeks",
+    "category": "Mobile Development"
+  },
+  {
+    "id": "2",
+    "title": "Web Development Bootcamp",
+    "description": "Master HTML, CSS, JavaScript, and React for modern web development. Build responsive websites and web applications.",
+    "price": 149.99,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop",
+    "instructor": "Sarah Johnson",
+    "duration": "16 weeks",
+    "category": "Web Development"
+  },
+  {
+    "id": "3",
+    "title": "Data Science Fundamentals",
+    "description": "Introduction to data science with Python, statistics, and machine learning. Learn to analyze data and build predictive models.",
+    "price": 199.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+    "instructor": "Dr. Michael Chen",
+    "duration": "20 weeks",
+    "category": "Data Science"
+  },
+  {
+    "id": "4",
+    "title": "UI/UX Design Masterclass",
+    "description": "Learn design principles, tools, and create stunning user interfaces. Master Figma, Adobe XD, and design thinking.",
+    "price": 129.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400&h=300&fit=crop",
+    "instructor": "Emma Wilson",
+    "duration": "10 weeks",
+    "category": "Design"
+  },
+  {
+    "id": "5",
+    "title": "Cloud Computing with AWS",
+    "description": "Master Amazon Web Services and cloud architecture. Learn to deploy, scale, and manage applications in the cloud.",
+    "price": 179.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
+    "instructor": "Alex Rodriguez",
+    "duration": "14 weeks",
+    "category": "Cloud Computing"
+  },
+  {
+    "id": "6",
+    "title": "Cybersecurity Essentials",
+    "description": "Learn to protect systems and networks from cyber threats. Master ethical hacking, network security, and risk management.",
+    "price": 159.99,
+    "rating": 4.5,
+    "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=300&fit=crop",
+    "instructor": "Lisa Thompson",
+    "duration": "18 weeks",
+    "category": "Cybersecurity"
+  },
+  {
+    "id": "7",
+    "title": "Machine Learning with Python",
+    "description": "Deep dive into machine learning algorithms, neural networks, and AI applications using Python and TensorFlow.",
+    "price": 229.99,
+    "rating": 4.9,
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=300&fit=crop",
+    "instructor": "Dr. James Wilson",
+    "duration": "24 weeks",
+    "category": "Artificial Intelligence"
+  },
+  {
+    "id": "8",
+    "title": "iOS App Development",
+    "description": "Build native iOS applications using Swift and Xcode. Learn iOS frameworks and App Store deployment.",
+    "price": 189.99,
+    "rating": 4.7,
+    "imageUrl": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=400&h=300&fit=crop",
+    "instructor": "Maria Garcia",
+    "duration": "16 weeks",
+    "category": "Mobile Development"
+  },
+  {
+    "id": "9",
+    "title": "DevOps Engineering",
+    "description": "Master CI/CD pipelines, Docker, Kubernetes, and infrastructure as code. Learn modern DevOps practices.",
+    "price": 209.99,
+    "rating": 4.8,
+    "imageUrl": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "instructor": "David Kim",
+    "duration": "22 weeks",
+    "category": "DevOps"
+  },
+  {
+    "id": "10",
+    "title": "Blockchain Development",
+    "description": "Learn blockchain technology, smart contracts, and cryptocurrency development using Solidity and Web3.",
+    "price": 249.99,
+    "rating": 4.6,
+    "imageUrl": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=400&h=300&fit=crop",
+    "instructor": "Robert Lee",
+    "duration": "20 weeks",
+    "category": "Blockchain"
+  }
+]
